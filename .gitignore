@@ -12,7 +12,6 @@
 
 # Dependency directories (GOPATH)
 bin/
-pkg/
 vendor/
 
 # Dependency file
